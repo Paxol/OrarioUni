@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4937b8ca3ce64f18cba142327bde96b5",
+    "revision": "e45721dd7df023b622b767d43df58217",
     "url": "/OrarioUni/index.html"
   },
   {
-    "revision": "b304fd5a471bbd2bad1c",
+    "revision": "8bbb04195bfad76eb422",
     "url": "/OrarioUni/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "012176082244264c0a52",
+    "revision": "f414fca86bb924dd8456",
     "url": "/OrarioUni/static/css/main.5ecd60fb.chunk.css"
   },
   {
-    "revision": "b304fd5a471bbd2bad1c",
-    "url": "/OrarioUni/static/js/2.b12fce4d.chunk.js"
+    "revision": "8bbb04195bfad76eb422",
+    "url": "/OrarioUni/static/js/2.1197f01a.chunk.js"
   },
   {
     "revision": "e4f6fd5e687738d725e56603861f1923",
-    "url": "/OrarioUni/static/js/2.b12fce4d.chunk.js.LICENSE.txt"
+    "url": "/OrarioUni/static/js/2.1197f01a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "012176082244264c0a52",
-    "url": "/OrarioUni/static/js/main.c37b64e8.chunk.js"
+    "revision": "f414fca86bb924dd8456",
+    "url": "/OrarioUni/static/js/main.589dd7eb.chunk.js"
   },
   {
     "revision": "9f42f9aa979100c466b1",
