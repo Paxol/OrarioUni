@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/OrarioUni/precache-manifest.d1c0ca2e14b0493b9cfed5f44f9bb07d.js"
+  "/OrarioUni/precache-manifest.eda9faac2ace9bcec48980c87e368ece.js"
 );
 
 self.addEventListener('message', (event) => {
