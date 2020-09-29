@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e45721dd7df023b622b767d43df58217",
+    "revision": "0de3b3ed24bd5237a7f37d64df8e69e6",
     "url": "/OrarioUni/index.html"
   },
   {
